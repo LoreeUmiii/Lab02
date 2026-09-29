@@ -21,6 +21,7 @@ def elenco_foto_anno_per_titolo(album, anno):
 def main():
     album = []
     file_path = "album_fotografico.csv"
+    prova = "prova" #prova di commit
 
     while True:
         print("\n--- MENU ALBUM FOTOGRAFICO ---")
